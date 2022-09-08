@@ -1,5 +1,4 @@
-/* 
-Problem Statement: Write a program to read in StockAccount Names, Number of Share, Share Price.
+/* Problem Statement: Write a program to read in StockAccount Names, Number of Share, Share Price.
   Print
   a. StockAccount Report with the total value of each StockAccount and the total value of StockAccount.
   b. I/P -> N number of Stocks, for Each StockAccount Read In the Share Name, Number of Share, and Share Price
